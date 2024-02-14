@@ -126,3 +126,4 @@ jobs:
         with:
           message: |
             FYI @noir-lang/developerrelations on Noir doc changes.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
